@@ -15,10 +15,22 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PYTHON](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 # Repository Card: 
-![GitHub Repositories Card](https://github-readme-stats.vercel.app/api/pin/?username=shimazadeh&repo=ft_transcendence&theme=dark)
-![GitHub Repositories Card](https://github-readme-stats.vercel.app/api/pin/?username=shimazadeh&repo=minishell&theme=dark)
-![GitHub Repositories Card](https://github-readme-stats.vercel.app/api/pin/?username=shimazadeh&repo=ft_irc&theme=dark)
-![GitHub Repositories Card](https://github-readme-stats.vercel.app/api/pin/?username=shimazadeh&repo=ft_container&theme=dark)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shimazadeh&repo=ft_transcendence&theme=dark" alt="GitHub Repositories Card">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shimazadeh&repo=minishell&theme=dark" alt="GitHub Repositories Card">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shimazadeh&repo=ft_irc&theme=dark" alt="GitHub Repositories Card">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shimazadeh&repo=ft_container&theme=dark" alt="GitHub Repositories Card">
+    </td>
+  </tr>
+</table>
 
 
 # 📊 GitHub Stats:
