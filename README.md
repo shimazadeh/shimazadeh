@@ -37,9 +37,28 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=shimazadeh&repo=ft_irc&theme=dark" alt="GitHub Repositories Card">
     </td>
   </tr>
-   <td>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shimazadeh&repo=Ft_linear_regression&theme=dark" alt="GitHub Repositories Card">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shimazadeh&repo=Neural_Networks&theme=dark" alt="GitHub Repositories Card">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shimazadeh&repo=Ft_logistic_regression&theme=dark" alt="GitHub Repositories Card">
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=shimazadeh&repo=ft_container&theme=dark" alt="GitHub Repositories Card">
     </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shimazadeh&repo=Philosophers&theme=dark" alt="GitHub Repositories Card">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shimazadeh&repo=Cub3D&theme=dark" alt="GitHub Repositories Card">
+    </td>
+  </tr>
 </table>
 
 
