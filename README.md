@@ -1,14 +1,9 @@
-### Hi there 🥸
+### Hi I'm Shima!👩🏻‍💻
 
-<!--
-**shimazadeh/shimazadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Passionate about AI and Machine learning
+- 👯 I’m looking to collaborate on machine learning projects
+- 📫 How to reach me: zadeh.shima@gmail.com 
+- ⚡ Fun fact about me: I didnt know how to ride a bike until I was 28! LOL 
 
 ## 📫 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shimazadeh/) ![](https://komarev.com/ghpvc/?username=shimazadeh&color=blue)
